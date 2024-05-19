@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Milan Singh
-- 👀 I’m interested in Front End Web Develoopmet and Coding 
+- 👀 I’m interested in Front End Web Developmet and Coding 
 - 🌱 I’m currently pursuing B.Sc.(H)Electronics
 - 💞️ I’m looking to find a job in Front End Development.
   
