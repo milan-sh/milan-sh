@@ -19,6 +19,6 @@
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=milan-sh&show_icons=true&locale=en&layout=compact" alt="milan-sh" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=milan-sh&show_icons=true&locale=en" alt="milan-sh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milan-sh&show_icons=true&locale=en" alt="milan-sh" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-sh&" alt="milan-sh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-sh&" alt="milan-sh" /></p>
