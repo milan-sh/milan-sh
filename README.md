@@ -10,7 +10,7 @@ I'm a front-end developer with expertise in building responsive, user-friendly w
 * 🖥️  See my portfolio at [Milan-sh](http://github.com/milan-sh)
 * ✉️  You can contact me at [milan083825@gmail.com](mailto:milan083825@gmail.com)
 * 🧠  I'm learning Backend Development
-* ⚡  I have 70 wpm typing speed
+* ⚡  I have 70wpm typing speed
 
 <a href="https://www.github.com/milan-sh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/milan-sh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -39,4 +39,8 @@ src="https://img.shields.io/github/followers/milan-sh?logo=github&style=for-the-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/milan-sh/to-do-web-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=milan-sh&repo=to-do-web-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/milan-sh/quiz-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=milan-sh&repo=quiz-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/milan-sh/weather-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=milan-sh&repo=weather-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/milan-sh/to-do-web-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=milan-sh&repo=to-do-web-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/milan-sh/expense-tracker-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=milan-sh&repo=expense-tracker-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
