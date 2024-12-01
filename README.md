@@ -7,7 +7,7 @@ Front-End Developer
 I'm a front-end developer with expertise in building responsive, user-friendly websites. I have a strong understanding of JavaScript and React, and I enjoy creating modern, smooth animations to enhance user experiences. Currently, I'm expanding my skillset by exploring backend development and actively seeking job opportunities where I can apply my expertise. Let's connect and stay in touch for future projects!
 
 * 🌍  I'm based in New Delhi, India
-* 🖥️  See my portfolio at [milan-sh]([http://github.com/milan-sh](https://portfolio-milan-singhs-projects-cf4c059d.vercel.app/))
+* 🖥️  See my portfolio at [milan-singh](http://portfolio-milan-singhs-projects-cf4c059d.vercel.app/)
 * ✉️  You can contact me at [devmilansingh81@gmail.com](mailto:devmilansingh81@gmail.com)
 * 🧠  I'm learning Backend Development.
 * ⚡  I have 70 wpm typing speed.
